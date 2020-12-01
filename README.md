@@ -22,8 +22,16 @@
   return response.status(201).send();
 ```
 
-<hr>
-<div align="center">
-<img alt="Bodegami" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bodegami&show_icons=true&hide_border=true&theme=dark" />
-<img alt="stacks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&theme=dark" />
-</div>
+ <a href="https://github.com/Bodegami">
+    <img 
+         align="center" 
+         height="180"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&layout=compact&theme=dark" 
+     />
+  </a>
+  <a href="https://github.com/Bodegami">
+    <img 
+         align="center" 
+         height="180"
+         src="https://github-readme-stats.vercel.app/api?username=Bodegami&show_icons=true&include_all_commits=true&theme=dark" alt="fecampi github stats" />
+  </a>
