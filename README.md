@@ -23,9 +23,7 @@
 ```
 
 <hr>
-<h1 align="center">
+<div align="center">
 <img alt="Bodegami" src="https://github-readme-stats.codestackr.vercel.app/api?username=Bodegami&show_icons=true&hide_border=true&theme=dark" />
-</h1>
-
-
-
+<img alt="stacks" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&theme=dark" />
+</div>
