@@ -13,9 +13,9 @@
 ```javascript
   async user.index({
     name: 'Renato Ferreira Oliveira',
-    age: 33,
+    age: 34,
     city: 'São Paulo, SP',
-    stack: ['Java', 'Spring','JPA/Hibernate', 'PostgreSQL', 'MongoDB',  'JavaScript', 'ReactJS/ Native'],
+    stack: ['Java', 'Spring Framework','Elastic Stack', 'Kotlin', 'Micronaut',  'gRPC', 'Vue.js'],
     hobby: 'Skate, games, programming and sci-fi movies'
   });
   
