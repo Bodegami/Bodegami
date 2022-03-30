@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is Renato Ferreira Oliveira, 34 years old, graduated in computer networks and currently studying systems analysis and development.<img src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" width="40px">
+# My name is Renato Ferreira Oliveira, 35 years old, graduated in computer networks and currently studying systems analysis and development.<img src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" width="40px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/renato-ferreira-oliveira-0980b2ba/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://whats.link/renatoferreiraoliveira)
@@ -13,7 +13,7 @@
 ```javascript
   async user.index({
     name: 'Renato Ferreira Oliveira',
-    age: 34,
+    age: 35,
     city: 'São Paulo, SP',
     stack: ['Java', 'Spring Framework','Elastic Stack', 'Kotlin', 'Micronaut',  'gRPC', 'Vue.js'],
     hobby: 'Skate, games, programming and sci-fi movies'
