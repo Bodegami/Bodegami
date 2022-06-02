@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-# My name is Renato Ferreira Oliveira, 35 years old, graduated in computer networks and currently studying systems analysis and development.<img src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" width="40px">
+# My name is Renato Ferreira Oliveira, 35 years old, graduated in computer networks and currently studying systems analysis and development.
 
+<p align="center">
+  <img src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" width="40px" align="middle">
+</p>
+  
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/renato-ferreira-oliveira-0980b2ba/)
 [![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://whats.link/renatoferreiraoliveira)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:duduxss3@gmail.com)](mailto:rena.f.oliveira@gmail.com)
