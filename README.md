@@ -7,6 +7,8 @@
 
 My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innovation.
 
+
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bodegami&repo=bodegami&countColorcountColor)
 
 ### Languages & Tools 🛠  
@@ -18,10 +20,30 @@ My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innova
 
 
 ### Analytics ⚙️
+  
+  
+<p align="left">
+<a href="https://github.com/Bodegami">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Bodegami&count_private=true&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&layout=compact&langs_count=8&hide=HCL"/>
+</a>
+</p>
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodegami&layout=compact&count_private=true)
+<!-- <p align="left">
+<a href="https://github.com/Bodegami">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Bodegami"/>
+  <img height="180em" src="https://raw.githubusercontent.com/Bodegami/Bodegami/main/profile-summary-card-output/github/4-productive-time.svg"/>
+</a>
+</p> -->
 
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=bodegami&count_private=true&show_icons=true)
+<!-- <p align="center">
+  <img width="36%" src="profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="36%" src="profile-summary-card-output/github/2-most-commit-language.svg" />
+  <img width="24.3%" src="profile-summary-card-output/github/3-stats.svg" />
+</p> -->
+
+<!-- <img width="100%" src="https://github.com/Bodegami/Bodegami/blob/main/github-metrics.svg" /> -->
+<!-- ![Metrics](https://github.com/Bodegami/Bodegami/blob/main/metrics.plugin.achievements.svg) -->
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bodegami&hide_border=true)
 
