@@ -1,28 +1,34 @@
-### Hi there 👋
 
-# My name is Renato Ferreira Oliveira, 35 years old, graduated in computer networks and currently studying systems analysis and development.
 
-<p align="center">
-  <img src="https://uploads.spiritfanfiction.com/fanfics/capitulos/201712/mais-um-dia-normal-so-acho-11143617-031220170048.gif" width="40px" align="middle">
+
+
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
+
+My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innovation.
+
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bodegami&repo=bodegami&countColorcountColor)
+
+### Languages & Tools 🛠  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;  
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Django](https://img.shields.io/badge/-Django-05122A?style=flat&color=orange)&nbsp;  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&color=gray)&nbsp;![Localstack](https://img.shields.io/badge/-Localstack-05122A?style=flat&color=gray)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=gray)&nbsp;  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&color=yellow)&nbsp;![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&color=yellow)&nbsp;  
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&color=blue)&nbsp;![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&color=blue)&nbsp;  
+
+
+### Analytics ⚙️
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodegami&layout=compact&count_private=true)
+
+![Github Statistics](https://github-readme-stats.vercel.app/api/?username=bodegami&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bodegami&hide_border=true)
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/renato-ferreira-oliveira-0980b2ba/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+
 </p>
-  
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=black&link=https://www.linkedin.com/in/eduarddojose/)](https://www.linkedin.com/in/renato-ferreira-oliveira-0980b2ba/)
-[![Whatsapp Badge](https://img.shields.io/badge/-WhatsApp-6633cc?style=flat-square&logo=Whatsapp&logoColor=white&color=black&link=https://whats.link/eduardojose)](https://whats.link/renatoferreiraoliveira)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&color=black&link=mailto:duduxss3@gmail.com)](mailto:rena.f.oliveira@gmail.com)
-[![RocketSeat Badge](https://img.shields.io/badge/-RocketSeat-6633cc?style=flat-square&logo=Polymer-Project&logoColor=white&color=black&link=https://app.rocketseat.com.br/me/eduardo-jose-1594223134)](https://app.rocketseat.com.br/me/renato-ferreira-oliveira-06801)
-[![Medium Badge](https://img.shields.io/badge/-Medium-6633cc?style=flat-square&logo=Elixir&logoColor=white&color=black&link=https://medium.com/@duduxss3)](https://medium.com/@rena.f.oliveira)
-[![HackerRank Badge](https://img.shields.io/badge/-HackerRank-6633cc?style=flat-square&logo=HackerRank&logoColor=white&color=black&link=https://www.hackerrank.com/Edudev142)](https://www.hackerrank.com/rena_f_oliveira)
-
-
-```javascript
-  async user.index({
-    name: 'Renato Ferreira Oliveira',
-    age: 35,
-    city: 'São Paulo, SP',
-    stack: ['Java', 'Spring Framework','Elastic Stack', 'Kotlin', 'Micronaut',  'gRPC', 'Vue.js'],
-    hobby: 'Skate, games, programming and sci-fi movies'
-  });
-  
-  return response.status(201).send();
-```
-
