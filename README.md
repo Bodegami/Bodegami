@@ -24,8 +24,8 @@ My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innova
   
 <p align="left">
 <a href="https://github.com/Bodegami">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Bodegami&count_private=true&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&layout=compact&langs_count=8&hide=HCL"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Bodegami&count_private=true&show_icons=true&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bodegami&layout=compact&langs_count=8&hide=HCL&theme=great-gatsby"/>
 </a>
 </p>
 
