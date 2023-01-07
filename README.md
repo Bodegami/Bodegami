@@ -47,10 +47,17 @@ My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innova
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=bodegami&hide_border=true)
 
+
+### Certifications :white_check_mark:
+
+![Web 1](https://github.com/Bodegami/github-assets/blob/main/Assets/certifications/aws-practitioner.png) 
+
+
+
 ### Let's connect? 🤝
 
 <p align="left">
 
 <a href="https://www.linkedin.com/in/renato-ferreira-oliveira-0980b2ba/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-
+  
 </p>
