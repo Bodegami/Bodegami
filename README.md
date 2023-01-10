@@ -12,7 +12,7 @@ My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innova
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=bodegami&repo=bodegami&countColorcountColor)
 
 ### Languages & Tools 🛠  
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp;![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;  
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=orange)&nbsp;![Django](https://img.shields.io/badge/-Django-05122A?style=flat&color=orange)&nbsp;  
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&color=gray)&nbsp;![Github](https://img.shields.io/badge/-Github-05122A?style=flat&color=gray)&nbsp;![Gitlab](https://img.shields.io/badge/-Gitlab-05122A?style=flat&color=gray)&nbsp;![Localstack](https://img.shields.io/badge/-Localstack-05122A?style=flat&color=gray)&nbsp;![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&color=gray)&nbsp;  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&color=yellow)&nbsp;![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&color=yellow)&nbsp;![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-05122A?style=flat&color=yellow)&nbsp;  
