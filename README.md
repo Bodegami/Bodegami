@@ -50,7 +50,12 @@ My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innova
 
 ### Certifications :white_check_mark:
 
-![Web 1](https://github.com/Bodegami/github-assets/blob/main/Assets/certifications/aws-practitioner.png) 
+<!-- ![Web 1](https://github.com/Bodegami/github-assets/blob/main/Assets/certifications/aws-practitioner.png) -->
+
+<p>
+  <img width="15%" src="https://github.com/Bodegami/github-assets/blob/main/Assets/certifications/aws-practitioner.png" />
+  <img width="15%" src="https://github.com/Bodegami/github-assets/blob/main/Assets/certifications/aws-associate-architect.png" />
+</p>
 
 
 
