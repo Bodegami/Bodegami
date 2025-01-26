@@ -5,7 +5,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello World ! </h1> <hr>
 
-My name is Renato Ferreira Oliveira. I work as a Software Engineer at Zup Innovation.
+Hello, I'm Renato Ferreira Oliveira and I work as a software engineer at Mercado Libre.
 
 
 
